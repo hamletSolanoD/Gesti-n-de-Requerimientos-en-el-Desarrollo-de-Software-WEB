@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gestión de Requerimientos en el Desarrollo de Software]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Gestión de Requerimientos en el Desarrollo de Software</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 19 Aug 2024 01:48:19 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 19 Aug 2024 01:48:14 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Herramientas para la Gestión de requerimientos]]></title><description><![CDATA[ 
+ <br>Existen múltiples herramientas diseñadas para la gestión de requerimientos, cada una con sus propias características y funcionalidades. Algunas de las más populares son:<br>
+<br>Jira: Ampliamente utilizada para el seguimiento de proyectos, Jira incluye funcionalidades para la gestión de requerimientos, permitiendo la creación de historias de usuario, tareas y épicas, y su seguimiento a lo largo del desarrollo.<br>
+Enlace: <a rel="noopener" class="external-link" href="https://www.atlassian.com/software/jira" target="_blank">https://www.atlassian.com/software/jira</a><br>
+
+<br>IBM Engineering Requirements Management DOORS: Es una herramienta especializada en la gestión de requerimientos complejos, muy utilizada en industrias reguladas como la aeroespacial y la automotriz.<br>
+Enlace: <a rel="noopener" class="external-link" href="https://www.ibm.com/products/requirements-management-doors" target="_blank">https://www.ibm.com/products/requirements-management-doors</a><br>
+
+<br>Helix RM (Perforce): Facilita la colaboración en el desarrollo de software y la gestión de requerimientos, con capacidades avanzadas de trazabilidad y control de versiones.<br>
+Enlace: <a rel="noopener" class="external-link" href="https://www.perforce.com/products/helix-rm" target="_blank">https://www.perforce.com/products/helix-rm</a><br>
+
+<br>Confluence: Aunque más orientada a la documentación colaborativa, Confluence se integra bien con Jira para gestionar requerimientos y mantener una base de conocimientos centralizada.<br>
+Enlace: <a rel="noopener" class="external-link" href="https://www.atlassian.com/software/confluence" target="_blank">https://www.atlassian.com/software/confluence</a><br>
+
+<br>Azure DevOps: Incluye módulos para la planificación y gestión de proyectos, con capacidades robustas para el manejo de requerimientos y su integración con el flujo de desarrollo.<br>
+Enlace: <a rel="noopener" class="external-link" href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">https://azure.microsoft.com/en-us/services/devops/</a>
+]]></description><link>herramientas/tipos/herramientas-para-la-gestión-de-requerimientos.html</link><guid isPermaLink="false">Herramientas/Tipos/Herramientas para la Gestión de requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:08:23 GMT</pubDate></item><item><title><![CDATA[Software de Gestión de requerimientos]]></title><description><![CDATA[ 
+ <br>El software de gestión de requerimientos es una categoría de herramientas diseñada específicamente para ayudar a los equipos de desarrollo a documentar, analizar, rastrear y gestionar los requerimientos a lo largo del ciclo de vida del proyecto. Estas soluciones permiten a los equipos mantener una trazabilidad clara desde la definición inicial de los requerimientos hasta su implementación y prueba, asegurando que cada necesidad del cliente esté adecuadamente gestionada y cumplida.<br>Características comunes de este software incluyen:<br>
+<br>Trazabilidad: Permite rastrear cada requerimiento desde su origen hasta su implementación y validación.
+<br>Colaboración: Facilita la colaboración entre equipos, permitiendo la discusión y revisión de requerimientos en tiempo real.
+<br>Control de versiones: Gestiona cambios en los requerimientos a lo largo del tiempo, asegurando que todas las modificaciones sean registradas.
+<br>Priorización: Ayuda a los equipos a priorizar requerimientos según su importancia y urgencia.
+<br>Generación de reportes: Ofrece reportes y análisis sobre el estado de los requerimientos y su cumplimiento.
+]]></description><link>herramientas/tipos/software-de-gestión-de-requerimientos.html</link><guid isPermaLink="false">Herramientas/Tipos/Software de Gestión de requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:05:15 GMT</pubDate></item><item><title><![CDATA[Tecnicas para la Gestión de requerimientos]]></title><description><![CDATA[ 
+ <br>La gestión de requerimientos implica una serie de técnicas que permiten a los equipos de desarrollo recopilar, analizar, priorizar y validar los requerimientos de manera efectiva. Algunas de las técnicas más utilizadas incluyen:<br>
+<br>Entrevistas: Consisten en reuniones con stakeholders para entender sus necesidades y expectativas. Son una técnica fundamental para recopilar requerimientos de manera directa.<br>
+
+<br>Talleres de Requerimientos: Son sesiones colaborativas donde stakeholders y miembros del equipo de desarrollo trabajan juntos para identificar, definir y priorizar requerimientos.<br>
+
+<br>Análisis de Casos de Uso: Involucra la creación de casos de uso que describen cómo los usuarios interactuarán con el sistema. Es útil para capturar requerimientos funcionales.<br>
+
+<br>Prototipos: Se crean versiones preliminares del sistema o de algunas funcionalidades para validar y refinar los requerimientos con los usuarios antes de la implementación final.<br>
+
+<br>Modelado de Requerimientos: Utiliza diagramas y modelos (como diagramas UML) para representar visualmente los requerimientos y su relación con otros elementos del sistema.<br>
+
+<br>Análisis de Impacto: Evalúa el impacto que tendría un cambio en los requerimientos sobre el proyecto, ayudando a tomar decisiones informadas sobre si proceder con modificaciones.
+]]></description><link>herramientas/tipos/tecnicas-para-la-gestión-de-requerimientos.html</link><guid isPermaLink="false">Herramientas/Tipos/Tecnicas para la Gestión de requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:05:32 GMT</pubDate></item><item><title><![CDATA[Análisis de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Una vez recopilados, los requerimientos son analizados para asegurar que sean claros, completos, consistentes y realizables. Se revisan para identificar cualquier conflicto o ambigüedad.
+<br>Actividades Clave: Clasificación y priorización de requerimientos, verificación de su viabilidad técnica, y resolución de conflictos entre requerimientos.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/análisis-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Análisis de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:19:42 GMT</pubDate></item><item><title><![CDATA[Entrega y Mantenimiento]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Después de la verificación y pruebas, el software es entregado al cliente. Durante esta etapa, los requerimientos pueden continuar evolucionando debido a nuevas necesidades o descubrimientos después del lanzamiento, lo que lleva a la fase de mantenimiento.
+<br>Actividades de Mantenimiento: Corrección de errores, actualización de requerimientos, mejoras continuas.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/entrega-y-mantenimiento.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Entrega y Mantenimiento.md</guid><pubDate>Mon, 19 Aug 2024 01:20:49 GMT</pubDate></item><item><title><![CDATA[Especificación de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: En esta etapa, los requerimientos son documentados de manera formal y detallada en un formato comprensible tanto para los desarrolladores como para los stakeholders. Este documento de requerimientos servirá como referencia durante todo el ciclo de vida del proyecto.
+<br>Documentos Utilizados: Documento de Requerimientos del Sistema (SRS), casos de uso, diagramas UML.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/especificación-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Especificación de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:19:52 GMT</pubDate></item><item><title><![CDATA[Gestión de Cambios de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: A lo largo del proyecto, pueden surgir cambios en los requerimientos debido a nuevas necesidades, descubrimientos técnicos, o cambios en el mercado. Esta etapa se enfoca en gestionar esos cambios de manera controlada para minimizar su impacto en el proyecto.
+<br>Procesos: Evaluación del impacto de los cambios, aprobación o rechazo de cambios, y actualización de la documentación-
+]]></description><link>requerimientos/ciclo-de-vida/etapas/gestión-de-cambios-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Gestión de Cambios de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:20:18 GMT</pubDate></item><item><title><![CDATA[Implementación de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: En esta etapa, los desarrolladores trabajan en la implementación del software basado en los requerimientos especificados. Aquí, los requerimientos se convierten en código y funcionalidad.
+<br>Actividades Clave: Desarrollo, integración y pruebas iniciales para asegurar que los requerimientos se están implementando correctamente.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/implementación-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Implementación de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:20:30 GMT</pubDate></item><item><title><![CDATA[Recopilación de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Es la primera etapa donde se identifican y documentan los requerimientos del proyecto. Esta etapa implica interactuar con los stakeholders, usuarios finales, y otros interesados para entender sus necesidades y expectativas.
+<br>Técnicas Comunes: Entrevistas, cuestionarios, talleres de requerimientos, observación directa, análisis de documentos existentes.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/recopilación-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Recopilación de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:19:32 GMT</pubDate></item><item><title><![CDATA[Retiro de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Finalmente, cuando el software alcanza el final de su vida útil o cuando se desarrollan nuevas versiones o sistemas, los requerimientos originales pueden retirarse o archivarse.
+<br>Actividades: Documentación de cierre, transferencia de conocimientos, y desmantelamiento del sistema si es necesario.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/retiro-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Retiro de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:20:58 GMT</pubDate></item><item><title><![CDATA[Validación de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Los requerimientos especificados son revisados y aprobados por los stakeholders y el equipo de desarrollo para asegurar que reflejan con precisión las necesidades del negocio y del usuario.
+<br>Métodos de Validación: Revisiones formales, prototipos, simulaciones, y validación con usuarios finales.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/validación-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Validación de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:20:05 GMT</pubDate></item><item><title><![CDATA[Verificación y Pruebas]]></title><description><![CDATA[ 
+ <br>
+<br>Descripción: Una vez implementados, los requerimientos deben ser verificados y probados para asegurar que cumplen con las especificaciones y satisfacen las necesidades del cliente.
+<br>Pruebas Realizadas: Pruebas unitarias, pruebas de integración, pruebas de aceptación del usuario (UAT), y pruebas de regresión.
+]]></description><link>requerimientos/ciclo-de-vida/etapas/verificación-y-pruebas.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Etapas/Verificación y Pruebas.md</guid><pubDate>Mon, 19 Aug 2024 01:20:40 GMT</pubDate></item><item><title><![CDATA[Ciclo de vida de los requerimientos​]]></title><description><![CDATA[ 
+ <br>El ciclo de vida de los requerimientos es el proceso completo que siguen los requerimientos de un proyecto de software desde su identificación inicial hasta su implementación y mantenimiento final. Este ciclo asegura que los requerimientos sean bien gestionados a lo largo de todo el proyecto, garantizando que el producto final cumpla con las expectativas y necesidades del cliente. A continuación, se describen las etapas típicas del ciclo de vida de los requerimientos:]]></description><link>requerimientos/ciclo-de-vida/ciclo-de-vida-de-los-requerimientos​.html</link><guid isPermaLink="false">Requerimientos/Ciclo de Vida/Ciclo de vida de los requerimientos​.md</guid><pubDate>Mon, 19 Aug 2024 01:25:13 GMT</pubDate></item><item><title><![CDATA[Ambigüedad​]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: Los requerimientos no están claramente definidos, son vagos o incompletos, lo que lleva a malentendidos durante el desarrollo.
+<br>Solución: Utilizar técnicas como las entrevistas detalladas, talleres de requerimientos y modelado de casos de uso para obtener claridad y precisión en los requerimientos. Documentar los requerimientos de manera formal y validarlos con los stakeholders para asegurar que todos tengan una comprensión común.
+]]></description><link>requerimientos/desafios/tipos/ambigüedad​.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Ambigüedad​.md</guid><pubDate>Mon, 19 Aug 2024 01:11:52 GMT</pubDate></item><item><title><![CDATA[Cambios frecuentes​]]></title><description><![CDATA[ 
+ <br>​- Desafío: Los requerimientos cambian con frecuencia, lo que puede causar desviaciones del alcance original, plazos extendidos y sobrecostos.<br>
+<br>Solución: Implementar un proceso estructurado de gestión de cambios que incluya una evaluación del impacto de los cambios antes de aprobarlos. Utilizar metodologías ágiles, como Scrum, que permiten la adaptación continua a los cambios sin interrumpir el flujo de trabajo.
+]]></description><link>requerimientos/desafios/tipos/cambios-frecuentes​.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Cambios frecuentes​.md</guid><pubDate>Mon, 19 Aug 2024 01:11:57 GMT</pubDate></item><item><title><![CDATA[Comunicacion ​]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: La falta de comunicación entre los equipos de desarrollo, QA, y los stakeholders puede llevar a malentendidos y a la implementación incorrecta de los requerimientos.
+<br>Solución: Fomentar la colaboración continua mediante reuniones frecuentes, revisiones iterativas y el uso de herramientas colaborativas como Jira, Confluence o Azure DevOps. Definir claramente las responsabilidades y roles desde el inicio del proyecto.
+]]></description><link>requerimientos/desafios/tipos/comunicacion-​.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Comunicacion ​.md</guid><pubDate>Mon, 19 Aug 2024 01:12:30 GMT</pubDate></item><item><title><![CDATA[Conflictos entre Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: En proyectos complejos, diferentes stakeholders pueden tener requerimientos que entren en conflicto entre sí, lo que puede dificultar la toma de decisiones y el avance del proyecto.
+<br>Solución: Priorizar requerimientos con base en el valor de negocio y realizar análisis de impacto para resolver conflictos. Es fundamental tener un Product Owner que actúe como mediador y tome decisiones informadas.
+]]></description><link>requerimientos/desafios/tipos/conflictos-entre-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Conflictos entre Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:12:57 GMT</pubDate></item><item><title><![CDATA[Falta de Trazabilidad]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: Sin una adecuada trazabilidad, es difícil rastrear los requerimientos desde su origen hasta su implementación y prueba, lo que puede llevar a omisiones y fallos en el cumplimiento de los requerimientos.
+<br>Solución: Utilizar software de gestión de requerimientos que incluya funcionalidades de trazabilidad, permitiendo el seguimiento de cada requerimiento desde su definición inicial hasta la entrega final. Herramientas como Helix RM o IBM DOORS son ejemplos que proporcionan esta capacidad
+]]></description><link>requerimientos/desafios/tipos/falta-de-trazabilidad.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Falta de Trazabilidad.md</guid><pubDate>Mon, 19 Aug 2024 01:12:44 GMT</pubDate></item><item><title><![CDATA[Falta de Validación Continua]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: Sin validación continua, los requerimientos pueden no cumplir con las expectativas de los usuarios finales, lo que resulta en la necesidad de costosas revisiones después de la entrega.
+<br>Solución: Involucrar a los stakeholders en revisiones periódicas y realizar prototipos o demostraciones a lo largo del desarrollo para asegurar que el software se alinee con los requerimientos establecidos. Implementar pruebas basadas en los requerimientos para validar que se han implementado correctamente.
+]]></description><link>requerimientos/desafios/tipos/falta-de-validación-continua.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Falta de Validación Continua.md</guid><pubDate>Mon, 19 Aug 2024 01:13:08 GMT</pubDate></item><item><title><![CDATA[Priorización Ineficiente]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: No todos los requerimientos son igual de importantes, pero si no se priorizan correctamente, los equipos pueden enfocarse en tareas menos valiosas.
+<br>Solución: Usar técnicas de priorización, como MoSCoW (Must have, Should have, Could have, Won't have), donde los requerimientos se clasifican según su importancia. Involucrar al Product Owner o stakeholders clave en la toma de decisiones sobre la priorización.
+]]></description><link>requerimientos/desafios/tipos/priorización-ineficiente.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Priorización Ineficiente.md</guid><pubDate>Mon, 19 Aug 2024 01:12:22 GMT</pubDate></item><item><title><![CDATA[Tiempo Insuficiente para la Gestión de Requerimientos]]></title><description><![CDATA[ 
+ <br>
+<br>Desafío: En algunos proyectos, los plazos ajustados pueden llevar a una gestión inadecuada de los requerimientos, resultando en productos de baja calidad.
+<br>Solución: Asegurar que se reserve tiempo suficiente para la definición, análisis y validación de requerimientos al inicio del proyecto. Adoptar metodologías ágiles que incluyan revisiones y adaptaciones continuas para mejorar la calidad y la alineación del producto con los objetivos del proyecto.
+]]></description><link>requerimientos/desafios/tipos/tiempo-insuficiente-para-la-gestión-de-requerimientos.html</link><guid isPermaLink="false">Requerimientos/Desafios/Tipos/Tiempo Insuficiente para la Gestión de Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:13:20 GMT</pubDate></item><item><title><![CDATA[Desafíos comunes y soluciones ​]]></title><description><![CDATA[ 
+ <br>La gestión de requerimientos en proyectos de software puede ser un proceso complejo y desafiante. A continuación, se describen algunos de los desafíos comunes y posibles soluciones para superarlos:]]></description><link>requerimientos/desafios/desafíos-comunes-y-soluciones-​.html</link><guid isPermaLink="false">Requerimientos/Desafios/Desafíos comunes y soluciones ​.md</guid><pubDate>Mon, 19 Aug 2024 01:11:41 GMT</pubDate></item><item><title><![CDATA[Medir la Importancia]]></title><description><![CDATA[ 
+ <br>
+<br>Priorización: Ayuda a los equipos de desarrollo a decidir en qué trabajar primero, especialmente cuando hay limitaciones de tiempo o recursos.
+<br>Gestión del Alcance: Permite controlar el alcance del proyecto, asegurando que se cumplan los requerimientos críticos antes de considerar los opcionales.
+<br>Gestión de Riesgos: Identificar los niveles de cumplimiento ayuda a mitigar riesgos, al garantizar que los aspectos más críticos del proyecto se aborden de manera prioritaria.
+]]></description><link>requerimientos/tipos-de-requerimientos/de-acuerdo-con-el-nivel-de-cumplimiento​/medir-la-importancia.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/De acuerdo con el nivel de cumplimiento​/Medir la Importancia.md</guid><pubDate>Mon, 19 Aug 2024 00:52:10 GMT</pubDate></item><item><title><![CDATA[REQUERIMIENTO OBLIGATORIO]]></title><description><![CDATA[ 
+ <br><br>Son aquellos que son imprescindibles y deben ser implementados en el sistema final. No cumplir con estos requerimientos generalmente significa que el producto no podrá ser entregado o no cumplirá su propósito básico.<br><br>Funciones clave del sistema, requisitos legales y normativos, criterios de seguridad esenciales, etc.]]></description><link>requerimientos/tipos-de-requerimientos/de-acuerdo-con-el-nivel-de-cumplimiento​/requerimiento-obligatorio.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/De acuerdo con el nivel de cumplimiento​/REQUERIMIENTO OBLIGATORIO.md</guid><pubDate>Mon, 19 Aug 2024 00:46:13 GMT</pubDate></item><item><title><![CDATA[REQUERIMIENTO OPCIONAL]]></title><description><![CDATA[ 
+ <br><br>Son aquellos que son deseables pero no críticos. Pueden ser implementados si el tiempo y los recursos lo permiten, pero su ausencia no impide el lanzamiento del producto.<br><br>Características adicionales que mejoran la experiencia del usuario, funcionalidades que no afectan al núcleo del sistema.]]></description><link>requerimientos/tipos-de-requerimientos/de-acuerdo-con-el-nivel-de-cumplimiento​/requerimiento-opcional.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/De acuerdo con el nivel de cumplimiento​/REQUERIMIENTO OPCIONAL.md</guid><pubDate>Mon, 19 Aug 2024 00:47:10 GMT</pubDate></item><item><title><![CDATA[​REQUERIMIENTO RECOMENDABLE]]></title><description><![CDATA[ 
+ <br><br>Son aquellos que dependen de ciertas condiciones para su implementación. Podrían ser necesarios solo bajo circunstancias específicas.<br><br>Funcionalidades que solo se activan en ciertas regiones geográficas o bajo ciertas configuraciones de usuario.]]></description><link>requerimientos/tipos-de-requerimientos/de-acuerdo-con-el-nivel-de-cumplimiento​/​requerimiento-recomendable.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/De acuerdo con el nivel de cumplimiento​/​REQUERIMIENTO RECOMENDABLE.md</guid><pubDate>Mon, 19 Aug 2024 00:47:21 GMT</pubDate></item><item><title><![CDATA[Comparación]]></title><description><![CDATA[ 
+ <br>
+<br>Requerimientos Funcionales se centran en qué debe hacer el sistema, es decir, las funciones que debe realizar.
+<br>Requerimientos No Funcionales se centran en cómo el sistema debe funcionar y bajo qué condiciones, es decir, las características cualitativas del sistema.
+]]></description><link>requerimientos/tipos-de-requerimientos/funcionales-o-no-funcionales/comparación.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/Funcionales o No Funcionales/Comparación.md</guid><pubDate>Mon, 19 Aug 2024 00:49:41 GMT</pubDate></item><item><title><![CDATA[Funcionales ​]]></title><description><![CDATA[ 
+ <br>Los requerimientos funcionales describen lo que el sistema debe hacer. <br>Se refieren a las funcionalidades y servicios específicos que el sistema debe proporcionar, detallando cómo debe comportarse en respuesta a ciertas entradas o situaciones.<br>Características:<br>
+<br>Especificidad: Son específicos y detallados, describiendo acciones, procesos y tareas que el sistema debe realizar.
+<br>Orientados al Usuario: Están enfocados en las necesidades del usuario final y cómo el sistema debe satisfacer esas necesidades.
+<br>Ejemplos:
+
+<br>El sistema debe permitir a los usuarios iniciar sesión utilizando un nombre de usuario y contraseña.
+<br>El sistema debe enviar una notificación por correo electrónico cuando se complete una transacción.
+<br>El sistema debe permitir a los usuarios buscar productos por categoría.
+
+
+]]></description><link>requerimientos/tipos-de-requerimientos/funcionales-o-no-funcionales/funcionales-​.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/Funcionales o No Funcionales/Funcionales ​.md</guid><pubDate>Mon, 19 Aug 2024 00:49:17 GMT</pubDate></item><item><title><![CDATA[No funcionales​]]></title><description><![CDATA[ 
+ <br>Los requerimientos no funcionales describen cómo debe funcionar el sistema. No se centran en las funcionalidades que el sistema proporciona, sino en las cualidades y restricciones bajo las cuales esas funcionalidades deben operar.<br>Características:<br>
+<br>Calidad del Sistema: Se enfocan en atributos como el rendimiento, la seguridad, la usabilidad, la escalabilidad, la mantenibilidad, entre otros.
+<br>Restricciones: También pueden incluir limitaciones técnicas, estándares de cumplimiento, y restricciones operacionales.
+<br>Ejemplos:
+
+<br>El sistema debe poder manejar 1000 transacciones por segundo.
+<br>El tiempo de respuesta del sistema no debe exceder los 2 segundos bajo carga normal.
+<br>El sistema debe cumplir con las regulaciones GDPR para la protección de datos.
+
+
+]]></description><link>requerimientos/tipos-de-requerimientos/funcionales-o-no-funcionales/no-funcionales​.html</link><guid isPermaLink="false">Requerimientos/Tipos de Requerimientos/Funcionales o No Funcionales/No funcionales​.md</guid><pubDate>Mon, 19 Aug 2024 00:49:15 GMT</pubDate></item><item><title><![CDATA[Requerimientos]]></title><description><![CDATA[ 
+ <br><br>Son las condiciones o capacidades que un sistema debe cumplir o poseer para satisfacer una necesidad o resolver un problema.​<br><br>
+<br>Una gestión adecuada de los requerimientos asegura que el producto final cumpla con las expectativas de los usuarios y las partes interesadas, minimizando el riesgo de fallos y sobrecostos.​
+]]></description><link>requerimientos/requerimientos.html</link><guid isPermaLink="false">Requerimientos/Requerimientos.md</guid><pubDate>Mon, 19 Aug 2024 01:45:51 GMT</pubDate></item><item><title><![CDATA[Analista de Requerimientos​]]></title><description><![CDATA[ 
+ <br>
+<br>Función Principal: Recopila, documenta y analiza los requerimientos del proyecto, asegurándose de que sean claros, completos y realizables.
+<br>Adaptación a la Gestión de Requerimientos: El analista trabaja directamente con los stakeholders para entender sus necesidades y traducirlas en requerimientos técnicos detallados que guiarán el desarrollo. También facilita la comunicación entre el cliente y el equipo de desarrollo, asegurando que todos los requerimientos estén bien documentados y comprendidos por todos los miembros del equipo.
+]]></description><link>roles/types/analista-de-requerimientos​.html</link><guid isPermaLink="false">Roles/Types/Analista de Requerimientos​.md</guid><pubDate>Mon, 19 Aug 2024 00:57:00 GMT</pubDate></item><item><title><![CDATA[Desarrolladores de Software]]></title><description><![CDATA[ 
+ <br>
+<br>Función Principal: Implementan los requerimientos en forma de código, creando el software que satisface las especificaciones establecidas.
+<br>Adaptación a la Gestión de Requerimientos: Los desarrolladores colaboran estrechamente con el analista de requerimientos para entender las especificaciones técnicas y las necesidades del usuario. A medida que desarrollan el software, también proporcionan retroalimentación sobre la viabilidad técnica de los requerimientos y sugieren posibles mejoras o soluciones alternativas.
+]]></description><link>roles/types/desarrolladores-de-software.html</link><guid isPermaLink="false">Roles/Types/Desarrolladores de Software.md</guid><pubDate>Mon, 19 Aug 2024 00:57:04 GMT</pubDate></item><item><title><![CDATA[Ingeniero de Pruebas]]></title><description><![CDATA[ 
+ <br>
+<br>Función Principal: Asegura la calidad del software verificando que los requerimientos se hayan implementado correctamente y que el software funcione según lo esperado.
+<br>Adaptación a la Gestión de Requerimientos: El Ingeniero de Pruebas desarrolla casos de prueba basados en los requerimientos documentados por el Analista de Requerimientos y aprobados por el Product Owner. Realiza pruebas continuas para identificar cualquier desviación de los requerimientos y trabaja con los Desarrolladores de Software para corregir errores o inconsistencias. Su rol es crucial para validar que los requerimientos se cumplan plenamente antes de la entrega final.
+]]></description><link>roles/types/ingeniero-de-pruebas.html</link><guid isPermaLink="false">Roles/Types/Ingeniero de Pruebas.md</guid><pubDate>Mon, 19 Aug 2024 00:57:48 GMT</pubDate></item><item><title><![CDATA[Product Owner​]]></title><description><![CDATA[ 
+ <br>
+<br>Función Principal: Representa los intereses del cliente o del usuario final, priorizando los requerimientos y asegurando que el producto final cumpla con las expectativas de valor para el negocio.
+<br>Adaptación a la Gestión de Requerimientos: El Product Owner se encarga de gestionar el backlog de requerimientos, priorizando aquellos que aportan mayor valor al negocio. Participa en revisiones continuas con el equipo de desarrollo para ajustar los requerimientos según las necesidades cambiantes del proyecto y del mercado.
+]]></description><link>roles/types/product-owner​.html</link><guid isPermaLink="false">Roles/Types/Product Owner​.md</guid><pubDate>Mon, 19 Aug 2024 00:57:08 GMT</pubDate></item><item><title><![CDATA[Project Manager​]]></title><description><![CDATA[ 
+ <br>
+<br>Función Principal: Coordina y supervisa el progreso del proyecto, asegurando que los requerimientos se implementen dentro del tiempo y presupuesto establecidos.
+<br>Adaptación a la Gestión de Requerimientos: El Project Manager gestiona los recursos y el cronograma del proyecto en función de los requerimientos establecidos. Se asegura de que los cambios en los requerimientos sean evaluados y gestionados adecuadamente, evitando que el proyecto se desvíe del plan original.
+]]></description><link>roles/types/project-manager​.html</link><guid isPermaLink="false">Roles/Types/Project Manager​.md</guid><pubDate>Mon, 19 Aug 2024 00:57:12 GMT</pubDate></item><item><title><![CDATA[​Equipo de Desarrollo​]]></title><description><![CDATA[ 
+ <br>En el desarrollo de software, la gestión de requerimientos es un proceso fundamental que asegura que el producto final cumpla con las expectativas del cliente y los objetivos del negocio. Para que este proceso sea exitoso, es esencial contar con un equipo de desarrollo bien estructurado, donde cada rol juega una función específica en la recopilación, análisis, implementación, y validación de los requerimientos.<br>Un equipo de desarrollo que trabaja de manera efectiva con la gestión de requerimientos se caracteriza por la colaboración constante entre sus miembros, cada uno aportando su experiencia y habilidades para garantizar que los requerimientos sean comprendidos, priorizados y ejecutados de manera eficiente. Desde la fase inicial, en la que se identifican y documentan las necesidades del cliente, hasta las pruebas finales, donde se valida que el software cumple con los estándares establecidos, cada rol dentro del equipo tiene un impacto directo en el éxito del proyecto.]]></description><link>roles/​equipo-de-desarrollo​.html</link><guid isPermaLink="false">Roles/​Equipo de Desarrollo​.md</guid><pubDate>Mon, 19 Aug 2024 00:58:53 GMT</pubDate></item></channel></rss>
